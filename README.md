@@ -1,2 +1,2 @@
 # Programaria
-HTML, CSS e JS
+Curso completo de desenvolvedora front-end, site (HTML + CSS +JS)
